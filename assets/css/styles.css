@@ -11,7 +11,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #545E6C;
-  background: url("bg.png");
+  background-image: url("bg.png");
   font-size: 14px;
   padding: 30px;
   -webkit-font-smoothing: antialiased;
